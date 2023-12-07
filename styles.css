@@ -1,0 +1,17 @@
+.formulario{
+    background-color: yellowgreen;
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+
+.contenedor{
+    background-color: violet;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:visited {
+    background-color: #8064A2;
+}
+
+.btn-primary:hover{
+    background-color: violet;
+}
